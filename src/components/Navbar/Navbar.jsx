@@ -3,7 +3,7 @@ import { FaShoppingCart } from "react-icons/fa";
 import { Link } from "react-router";
 const Navbar = () => {
   return (
-    <header className="bg-indigo-500 py-3">
+    <header className="bg-indigo-500 p-4">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         {/* logo and menu bar */}
         <div>
